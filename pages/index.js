@@ -1,7 +1,5 @@
 import Head from 'next/head';
-import Image from 'next/image';
 import { Hero } from '../components/Hero';
-import styles from '../styles/Home.module.css';
 import { ArrowTopRightOnSquareIcon } from '@heroicons/react/20/solid';
 import { Footer } from '../components/Footer';
 import { Cloud } from '../components/Cloud';
