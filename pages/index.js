@@ -44,7 +44,7 @@ export default function Home() {
 									href="#"
 									className="inline-flex items-center justify-center rounded-md border border-transparent bg-white px-5 py-3 text-base font-medium text-gray-900 hover:bg-gray-50"
 								>
-									Voir le centre d'aide
+									Voir le centre d&quote;aide
 									<ArrowTopRightOnSquareIcon
 										className="-mr-1 ml-3 h-5 w-5 text-gray-400"
 										aria-hidden="true"
